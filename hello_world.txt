@@ -1,1 +1,2 @@
 hey this is my first ever project!
+this is just to test a function
